@@ -2,7 +2,7 @@
 LBM-Learning
 使用方法：点击release 下载exe
 
-<img width="1044" height="343" alt="image" src="https://github.com/user-attachments/assets/0f11da15-60da-4c43-aafe-24eb177b64dc" />
+![Uploading f62ad8b7-d402-468a-ad0f-4b29b1b371aa.png…]()
 
 ##根据latticeboltzmann-python 原始代码设计，具体见https://github.com/pmocz/latticeboltzmann-python/blob/main/latticeboltzmann.py
 
