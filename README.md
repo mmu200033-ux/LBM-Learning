@@ -9,9 +9,11 @@ LBM-Learning
 
 <img width="1878" height="210" alt="2ea8d0e508e30cd51176720320194149" src="https://github.com/user-attachments/assets/2a6fa29e-d033-416d-b48d-c97a180c1a99" />
 
+<br>
 
 ### 根据latticeboltzmann-python 原始代码设计，具体见https://github.com/pmocz/latticeboltzmann-python/blob/main/latticeboltzmann.py
 
+<br>
 
 ### 把latticeboltzmann方法的步骤可视化拆解，让初学者更好的理解LBM的运行逻辑
 
