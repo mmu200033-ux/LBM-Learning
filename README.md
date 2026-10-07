@@ -5,6 +5,7 @@ LBM-Learning
 ![Uploading c18cfb05d0cf1134b8ce1a0b7e5d64c9.png…]()
 
 
+
 ##根据latticeboltzmann-python 原始代码设计，具体见https://github.com/pmocz/latticeboltzmann-python/blob/main/latticeboltzmann.py
 
 
