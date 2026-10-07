@@ -2,7 +2,7 @@
 LBM-Learning
 使用方法：点击release 下载exe
 
-![Uploading c18cfb05d0cf1134b8ce1a0b7e5d64c9.png…]()
+<img width="2088" height="685" alt="c18cfb05d0cf1134b8ce1a0b7e5d64c9" src="https://github.com/user-attachments/assets/355c5d25-805f-43cd-b717-cd9623289e41" />
 
 
 
